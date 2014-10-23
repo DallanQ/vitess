@@ -11,7 +11,7 @@ import (
 	"io"
 	"unicode/utf8"
 
-	"github.com/youtube/vitess/go/hack"
+	"github.com/DallanQ/vitess/go/hack"
 )
 
 // ChunkedWriter has the same interface as bytes.Buffer's write functions.

@@ -11,7 +11,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/youtube/vitess/go/hack"
+	"github.com/DallanQ/vitess/go/hack"
 )
 
 // VerifyObject verifies kind to make sure it's

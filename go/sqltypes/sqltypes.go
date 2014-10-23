@@ -14,9 +14,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/youtube/vitess/go/bson"
-	"github.com/youtube/vitess/go/bytes2"
-	"github.com/youtube/vitess/go/hack"
+	"github.com/DallanQ/vitess/go/bson"
+	"github.com/DallanQ/vitess/go/bytes2"
+	"github.com/DallanQ/vitess/go/hack"
 )
 
 var (

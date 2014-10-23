@@ -12,8 +12,8 @@ import (
 	"sync"
 
 	log "github.com/golang/glog"
-	"github.com/youtube/vitess/go/acl"
-	"github.com/youtube/vitess/go/stats"
+	"github.com/DallanQ/vitess/go/acl"
+	"github.com/DallanQ/vitess/go/stats"
 )
 
 var (
