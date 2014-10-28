@@ -1,6 +1,6 @@
 # Vitess
 
-This is a fork of the youtube/vitess repo containing only re-usable, safe go packages.
+This is a fork of the youtube/vitess repo containing only re-usable, safe, appengine-compatible go packages.
 
 ## License
 
